@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+*.log
+hf_posts_summary_*.txt
